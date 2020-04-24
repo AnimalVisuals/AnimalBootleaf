@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["Puck_Species", "Puck_Class", "Puck_Gender", "Puck_Race"]
+			"layers": ["PuckSpecies", "PuckClass", "PuckGender", "PuckRace"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -88,13 +88,13 @@ var config = {
 	},
 	"layers": [
 	{
-    "id": "Puck_Species",
+    "id": "PuckSpecies",
     "name": "Species",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/Puck_Species.geojson",
+    "url": "./data/PuckSpecies.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
@@ -115,13 +115,13 @@ var config = {
 	   }
 	},
 		{
-    "id": "Puck_Race",
+    "id": "PuckRace",
     "name": "Race",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/Puck_Race.geojson",
+    "url": "./data/PuckRace.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
@@ -142,13 +142,13 @@ var config = {
 	  }
 	},
 		{
-    "id": "Puck_Class",
+    "id": "PuckClass",
     "name": "Class",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/Puck_Class.geojson",
+    "url": "./data/PuckClass.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
@@ -169,13 +169,13 @@ var config = {
 	   }
 	},
 			{
-    "id": "Puck_Gender",
+    "id": "PuckGender",
     "name": "Gender",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/Puck_Gender.geojson",
+    "url": "./data/PuckGender.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
