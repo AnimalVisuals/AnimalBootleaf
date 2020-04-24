@@ -1,0 +1,4471 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.150849,51.509877 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Mount Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70377,53.226947 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Derbyshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562593,53.104738 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Derbyshire (marketplace)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Fenland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"London (eastern)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.883283,49.366749 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Forest of Compiegne "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15826,51.53141667 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Ladies Mile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137379,51.506787 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Christies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.146963,51.510654 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Philips"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17689,51.478709 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Villa by the thames"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.133994,51.506835 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Pall Mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"St. James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.060341,52.56624 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Dower house among the Fens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272262,51.038519 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.11831,41.967678 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Between civita vecchio and rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.106184,40.667055 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Campagna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.497667,41.90073 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.286178,41.730319 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Ostia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.374918,43.29571 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Marseille "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.210543,48.821211 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Sevres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.126302,48.800921 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Versailles "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Coronet theater "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Henley "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Wargrave"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Breed_Race":"Maltese",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Breed_Race":"White",
+    "Location":"Peak country/district. Upward end of the southern Pennines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70377,53.226947 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Breed_Race":"White",
+    "Location":"Derbyshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562593,53.104738 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Breed_Race":"White",
+    "Location":"Derbyshire (marketplace)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.491552,52.930704 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Breed_Race":"White",
+    "Location":"Derbyshire (Miner's Joy)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Breed_Race":"White",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Reuben Dare",
+    "Breed_Race":"White",
+    "Location":"Peak country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70377,53.226947 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Reuben Dare",
+    "Breed_Race":"White",
+    "Location":"Ashford-in-the-water (Derbyshire)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.176685,52.10696 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Reuben Dare",
+    "Breed_Race":"White",
+    "Location":"Wye Dales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Dick",
+    "Breed_Race":"Unknown",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.807781,53.24084 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Nell",
+    "Breed_Race":"Unknown",
+    "Location":"Peak country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Trust",
+    "Breed_Race":"Shepherd",
+    "Location":"Peak country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Smedly",
+    "Breed_Race":"Unknown",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562593,53.104738 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Smedly",
+    "Breed_Race":"Unknown",
+    "Location":"Derbyshire (marketplace)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"No name",
+    "Breed_Race":"Unknown",
+    "Location":"fenland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bill Jacobs",
+    "Breed_Race":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bill Jacobs",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Jenny JacobsHuman",
+    "Breed_Race":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unknown",
+    "Breed_Race":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tussler",
+    "Breed_Race":"Bulldog",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.050809,50.302853 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tussler",
+    "Breed_Race":"Bulldog",
+    "Location":"Cornwall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.537896,50.120558 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tussler",
+    "Breed_Race":"Bulldog",
+    "Location":"Penzance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unknown",
+    "Breed_Race":"beagle",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Little Cosmo",
+    "Breed_Race":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.191231,55.955196 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Grey Friar's Bobby",
+    "Breed_Race":"Unknown",
+    "Location":"Edinboro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"King Arthur",
+    "Breed_Race":"large breed",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.607984,51.48776 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Eton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.247184,51.757151 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Christ church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.715028,22.953366 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Eastern lands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Henley "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Wargrave"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Leopold Lance",
+    "Breed_Race":"Unknown",
+    "Location":"The Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Leopold Lance",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Leopold Lance",
+    "Breed_Race":"Unknown",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Ladies Mile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"The Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675547,51.407659 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.72284,51.525907 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Maidenhead"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.776149,52.889865 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Belvoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.057684,53.276897 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"West of Ireland "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"South kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Breed_Race":"Unknown",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.078989,51.515727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Houndsditch or Shoreditch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.226383,48.772326 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Baden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.156833333,51.53141667 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Ladies Mile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.274554,51.441152 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Richmond park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.179422,51.506933 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Kensington gardens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.248983,48.862378 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Bois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.153563,51.499257 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Belgrave square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Breed_Race":"White",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fr_d_gonde",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"The Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.518636,52.500117 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Cocod_s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.518636,52.500117 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Christies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.518636,52.500117 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Philips"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.902534,51.53721 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Villa by Thames"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.6345,53.64691 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Paul mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47094,53.38278 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Saint James st"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47094,53.38278 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.00953,51.49498 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Greenwich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.218992,0.549618 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.056988,53.275475 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"West of ireland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.90464,51.53753 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Henley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.864929,51.500265 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Wargrave "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347395,48.857419 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Breed_Race":"White",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347395,48.857419 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marquis of Montferrat",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Breed_Race":"Unknown",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.248983,48.862378 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Breed_Race":"Unknown",
+    "Location":"Bois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Breed_Race":"Unknown",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"St. John Milton",
+    "Breed_Race":"Unknown",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.694417,52.45997 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unnamed",
+    "Breed_Race":"Unknown",
+    "Location":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.694417,52.45997 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unnamed",
+    "Breed_Race":"Unknown",
+    "Location":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.694417,52.45997 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord George",
+    "Breed_Race":"Unknown",
+    "Location":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Breed_Race":"Unknown",
+    "Location":"The Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Breed_Race":"Unknown",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Breed_Race":"Unknown",
+    "Location":"The Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Breed_Race":"Unknown",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Breed_Race":"Mutt",
+    "Location":"The country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Breed_Race":"Mutt",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Breed_Race":"Mutt",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Breed_Race":"Mutt",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Breed_Race":"Mutt",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Breed_Race":"Unknown",
+    "Location":"The country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Breed_Race":"Unknown",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.107198,51.513757 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Breed_Race":"Unknown",
+    "Location":"Whitefriars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.123973,51.500836 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Breed_Race":"Unknown",
+    "Location":"Thames river just beneath Westminster bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.173796,51.513493 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"The country/ sussex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Henley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Wargrave "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.173796,51.513493 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Breed_Race":"Unknown",
+    "Location":"The country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Breed_Race":"Unknown",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Ferrors",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137434,50.826989 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Bonniebelle/channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272262,51.038519 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Henley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Wargrave "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Breed_Race":"Unknown",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mark Mountmorris",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124976,51.53258 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Gertrude D'Eyncourt",
+    "Breed_Race":"Unknown",
+    "Location":"London stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.340883,49.330369 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Gertrude D'Eyncourt",
+    "Breed_Race":"Unknown",
+    "Location":"Homburg, Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Gertrude D'Eyncourt",
+    "Breed_Race":"Unknown",
+    "Location":"Or near Frankfurt__"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Breed_Race":"Unknown",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Breed_Race":"Unknown",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Breed_Race":"Unknown",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272262,51.038519 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Breed_Race":"Unknown",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.517975,50.467211 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Otho",
+    "Breed_Race":"Unknown",
+    "Location":"Channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496365,41.902782 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Otho",
+    "Breed_Race":"Unknown",
+    "Location":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Otho",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29981,51.454208 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond hill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137434,50.826989 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Spa "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.340883,49.330369 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Homburg, Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.226383,48.772326 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Baden "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duchess of Astolat",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Gwendolyn",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fiodora",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Baron Moresco",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Brune",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Brune",
+    "Breed_Race":"Unknown",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Brune",
+    "Breed_Race":"Unknown",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Freddy Orforf",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Freddy Orforf",
+    "Breed_Race":"Unknown",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Astolat dog",
+    "Breed_Race":"Poodle",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Astolat dog",
+    "Breed_Race":"Poodle",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.517355,50.816627 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Philip Cornaro",
+    "Breed_Race":"Belgian",
+    "Location":"Biscay coast"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Peel Vavasour",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Sir George Maude of Effingham",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Sir George Maude of Effingham",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vivyan Bruce",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.02025,53.48911 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Beatrice Silviera",
+    "Breed_Race":"Unknown",
+    "Location":"Cliefden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Jupiter Tonans",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29981,51.454208 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duke of Astolat",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond hill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29981,51.454208 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Ned Guilliadene",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond hill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Ablemarle",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Wynch",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.05441,51.49923 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Wynch",
+    "Breed_Race":"Unknown",
+    "Location":"Surrey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.193017,51.518769 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"Berks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129469,51.513449 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"Palace theater in the Strand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Breed_Race":"Unknown",
+    "Location":"South kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Prince de Ferras ",
+    "Breed_Race":"Unknown",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.395836,61.901033 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Neil Strathalan",
+    "Breed_Race":"Unknown",
+    "Location":"Norway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Neil Strathalan",
+    "Breed_Race":"Unknown",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.316908,57.075273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Spirka",
+    "Breed_Race":"Pomeranian ",
+    "Location":"Raulthelhautszeim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.11831,41.967678 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Spirka",
+    "Breed_Race":"Pomeranian ",
+    "Location":"Between civita vecchio and rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.11831,41.967678 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Matteo",
+    "Breed_Race":"Unknown",
+    "Location":"Between civita vecchio and rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.10644,40.663342 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Campagna "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496365,41.902782 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.84587,44.519539 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Ostia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Marseille "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.21059,48.824169 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Sevres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.131538,48.801488 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Breed_Race":"Unknown",
+    "Location":"Versailles "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Russ",
+    "Breed_Race":"Muscovite",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Breed_Race":"Unknown",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Breed_Race":"Unknown",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345822,48.833399 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Breed_Race":"Unknown",
+    "Location":"Convent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Carlos Merle",
+    "Breed_Race":"Unknown",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Carlos Merle",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.248983,48.862378 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Carlos Merle",
+    "Breed_Race":"Unknown",
+    "Location":"Bois "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Manon Bris",
+    "Breed_Race":"Unknown",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.657,46.887619 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madame Reine",
+    "Breed_Race":"Unknown",
+    "Location":"Alps"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madame Reine",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Remy",
+    "Breed_Race":"Unknown",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tambour",
+    "Breed_Race":"Mastiff",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mariquita",
+    "Breed_Race":"Isreali",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Royston Wressyl",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Royston Wressyl",
+    "Breed_Race":"Unknown",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Riversleigh",
+    "Breed_Race":"Unknown",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Riversleigh",
+    "Breed_Race":"Unknown",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Riversleigh",
+    "Breed_Race":"Unknown",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Margett Llansaint",
+    "Breed_Race":"Welsh",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Patch",
+    "Breed_Race":"Curr",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Hilda St. Maurice,",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Countess of Grancedieu",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.847175,53.197682 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duchess of Llandrysyl",
+    "Breed_Race":"Unknown",
+    "Location":"North wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duchess of Llandrysyl",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.154895,51.498393 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Ida Warwick",
+    "Breed_Race":"Unknown",
+    "Location":"Belgravia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Ida Warwick",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Lady Cississiter",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Lady Cississiter",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Cissister",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"John Beaudesert",
+    "Breed_Race":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.60905,51.48798 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Beatrice Leintwardine ",
+    "Breed_Race":"Unknown",
+    "Location":"Eton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Eblis",
+    "Breed_Race":"Unknown",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Abney Arcot",
+    "Breed_Race":"Unknown",
+    "Location":"Richmond "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Shamrock.",
+    "Breed_Race":"Unknown",
+    "Location":"Hyde park"
+    }
+  }
+]
+}

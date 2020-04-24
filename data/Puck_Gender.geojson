@@ -1,0 +1,4471 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.150849,51.509877 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Mount Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70377,53.226947 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Derbyshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562593,53.104738 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Derbyshire (marketplace)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Fenland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"London (eastern)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.883283,49.366749 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Forest of Compiegne "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.15826,51.53141667 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Ladies Mile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137379,51.506787 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Christies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.146963,51.510654 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Philips"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.17689,51.478709 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Villa by the thames"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.133994,51.506835 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Pall Mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"St. James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.060341,52.56624 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Dower house among the Fens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272262,51.038519 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.11831,41.967678 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Between civita vecchio and rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.106184,40.667055 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Campagna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.497667,41.90073 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.286178,41.730319 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Ostia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.374918,43.29571 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Marseille "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.210543,48.821211 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Sevres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.126302,48.800921 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Versailles "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Coronet theater "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Henley "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Wargrave"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Puck",
+    "Gender":"Male",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Gender":"Female",
+    "Location":"Peak country/district. Upward end of the southern Pennines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70377,53.226947 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Gender":"Female",
+    "Location":"Derbyshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562593,53.104738 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Gender":"Female",
+    "Location":"Derbyshire (marketplace)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.491552,52.930704 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Gender":"Female",
+    "Location":"Derbyshire (Miner's Joy)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Avice Dare",
+    "Gender":"Female",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Reuben Dare",
+    "Gender":"Male",
+    "Location":"Peak country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.70377,53.226947 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Reuben Dare",
+    "Gender":"Male",
+    "Location":"Ashford-in-the-water (Derbyshire)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.176685,52.10696 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Reuben Dare",
+    "Gender":"Male",
+    "Location":"Wye Dales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Dick",
+    "Gender":"Male",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.807781,53.24084 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Nell",
+    "Gender":"Female",
+    "Location":"Peak country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Trust",
+    "Gender":"Male",
+    "Location":"Peak country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.757973,53.250797 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Smedly",
+    "Gender":"Female",
+    "Location":"Peak Country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.562593,53.104738 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Smedly",
+    "Gender":"Female",
+    "Location":"Derbyshire (marketplace)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"No name",
+    "Gender":"Unknown",
+    "Location":"fenland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bill Jacobs",
+    "Gender":"Male",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bill Jacobs",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Jenny JacobsHuman",
+    "Gender":"Female",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unknown",
+    "Gender":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tussler",
+    "Gender":"Male",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.050809,50.302853 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tussler",
+    "Gender":"Male",
+    "Location":"Cornwall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.537896,50.120558 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tussler",
+    "Gender":"Male",
+    "Location":"Penzance"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unknown",
+    "Gender":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Little Cosmo",
+    "Gender":"Unknown",
+    "Location":"Eastern London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.191231,55.955196 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Grey Friar's Bobby",
+    "Gender":"Unknown",
+    "Location":"Edinboro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"King Arthur",
+    "Gender":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.607984,51.48776 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Eton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.247184,51.757151 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Christ church"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.715028,22.953366 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Eastern lands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Henley "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Wargrave"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Derry Denzil",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Leopold Lance",
+    "Gender":"Male",
+    "Location":"The Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Leopold Lance",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Leopold Lance",
+    "Gender":"Male",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Ladies Mile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"The Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675547,51.407659 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.72284,51.525907 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Maidenhead"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.776149,52.889865 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Belvoir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.057684,53.276897 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"West of Ireland "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"South kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fanfreluche",
+    "Gender":"Female",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.078989,51.515727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Houndsditch or Shoreditch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.226383,48.772326 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Baden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.156833333,51.53141667 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Ladies Mile"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.274554,51.441152 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Richmond park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.179422,51.506933 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Kensington gardens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.248983,48.862378 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Bois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.153563,51.499257 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Belgrave square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Laura Pearl",
+    "Gender":"Female",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fr_d_gonde",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"The Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.518636,52.500117 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Cocod_s"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.518636,52.500117 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Christies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.518636,52.500117 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Philips"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.902534,51.53721 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Villa by Thames"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.6345,53.64691 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Paul mall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47094,53.38278 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Saint James st"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.47094,53.38278 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.00953,51.49498 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Greenwich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.218992,0.549618 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Africa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.056988,53.275475 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"West of ireland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.90464,51.53753 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Henley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.864929,51.500265 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Wargrave "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"South Kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347395,48.857419 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vere Beltran",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347395,48.857419 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marquis of Montferrat",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Gender":"Male",
+    "Location":"Rotten Row "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.248983,48.862378 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Gender":"Male",
+    "Location":"Bois"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Marmion Eagle",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"St. John Milton",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.694417,52.45997 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unnamed",
+    "Gender":"Male",
+    "Location":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.694417,52.45997 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Unnamed",
+    "Gender":"Male",
+    "Location":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.694417,52.45997 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord George",
+    "Gender":"Male",
+    "Location":"England"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Gender":"Male",
+    "Location":"The Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Gender":"Male",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Desmond",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Gender":"Male",
+    "Location":"The Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Dudley Moore,",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Gender":"Male",
+    "Location":"The country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Gender":"Male",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Gender":"Male",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Bronze",
+    "Gender":"Male",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.442462,53.227428 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Gender":"Male",
+    "Location":"The country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Gender":"Male",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.107198,51.513757 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Gender":"Male",
+    "Location":"Whitefriars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.123973,51.500836 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Harold Gerant",
+    "Gender":"Male",
+    "Location":"Thames river just beneath Westminster bridge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.173796,51.513493 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"The country/ sussex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Henley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Wargrave "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Gladys",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.173796,51.513493 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Gender":"Female",
+    "Location":"The country"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Gender":"Female",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lillian Lee or Lettice Dean",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Ferrors",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137434,50.826989 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Bonniebelle/channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272262,51.038519 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.171009,51.486891 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Chelsea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.900181,51.550261 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Henley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.874927,51.501711 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Wargrave "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Earl of Guilliadene or Ned",
+    "Gender":"Male",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mark Mountmorris",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.124976,51.53258 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Gertrude D'Eyncourt",
+    "Gender":"Female",
+    "Location":"London stage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.340883,49.330369 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Gertrude D'Eyncourt",
+    "Gender":"Female",
+    "Location":"Homburg, Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Gertrude D'Eyncourt",
+    "Gender":"Female",
+    "Location":"Or near Frankfurt__"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071321,51.514246 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Gender":"Female",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Gender":"Female",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Gender":"Female",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.272262,51.038519 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Gender":"Female",
+    "Location":"Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Alice Beaujolais",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.517975,50.467211 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Otho",
+    "Gender":"Female",
+    "Location":"Channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496365,41.902782 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Otho",
+    "Gender":"Female",
+    "Location":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Otho",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29981,51.454208 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Richmond hill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.137434,50.826989 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Spa "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.340883,49.330369 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Homburg, Germany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.226383,48.772326 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Baden "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Maude Delamere",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duchess of Astolat",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Gwendolyn",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Fiodora",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Baron Moresco",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Brune",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Brune",
+    "Gender":"Male",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Brune",
+    "Gender":"Male",
+    "Location":"Hyde park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Freddy Orforf",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.139306,51.506727 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Freddy Orforf",
+    "Gender":"Male",
+    "Location":"St James street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Astolat dog",
+    "Gender":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Astolat dog",
+    "Gender":"Unknown",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.517355,50.816627 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Philip Cornaro",
+    "Gender":"Male",
+    "Location":"Biscay coast"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Peel Vavasour",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Sir George Maude of Effingham",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Sir George Maude of Effingham",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Vivyan Bruce",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.02025,53.48911 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Beatrice Silviera",
+    "Gender":"Female",
+    "Location":"Cliefden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Jupiter Tonans",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29981,51.454208 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duke of Astolat",
+    "Gender":"Male",
+    "Location":"Richmond hill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.29981,51.454208 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Ned Guilliadene",
+    "Gender":"Male",
+    "Location":"Richmond hill "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Paget Ablemarle",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Wynch",
+    "Gender":"Male",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.05441,51.49923 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Old Wynch",
+    "Gender":"Male",
+    "Location":"Surrey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.193017,51.518769 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"Berks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.197114,51.508979 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"3 blocks from Coronet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.129469,51.513449 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"Palace theater in the Strand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.215595,51.514273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Nellie Brown",
+    "Gender":"Female",
+    "Location":"South kensington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.675758,51.407888 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Prince de Ferras ",
+    "Gender":"Male",
+    "Location":"Ascot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.395836,61.901033 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Neil Strathalan",
+    "Gender":"Male",
+    "Location":"Norway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.811092,51.865959 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Neil Strathalan",
+    "Gender":"Male",
+    "Location":"Bucks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.316908,57.075273 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Spirka",
+    "Gender":"Male",
+    "Location":"Raulthelhautszeim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.11831,41.967678 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Spirka",
+    "Gender":"Male",
+    "Location":"Between civita vecchio and rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.11831,41.967678 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Matteo",
+    "Gender":"Male",
+    "Location":"Between civita vecchio and rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.10644,40.663342 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Campagna "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.496365,41.902782 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Rome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.84587,44.519539 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Ostia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Marseille "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.21059,48.824169 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Sevres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.131538,48.801488 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Giacone ",
+    "Gender":"Male",
+    "Location":"Versailles "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Russ",
+    "Gender":"Male",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Gender":"Female",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Gender":"Female",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345822,48.833399 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madelon",
+    "Gender":"Female",
+    "Location":"Convent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Carlos Merle",
+    "Gender":"Male",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Carlos Merle",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.248983,48.862378 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Carlos Merle",
+    "Gender":"Male",
+    "Location":"Bois "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Manon Bris",
+    "Gender":"Female",
+    "Location":"Silver stag"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.657,46.887619 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madame Reine",
+    "Gender":"Female",
+    "Location":"Alps"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Madame Reine",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Remy",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Tambour",
+    "Gender":"Male",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.230698,43.993307 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mariquita",
+    "Gender":"Female",
+    "Location":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Royston Wressyl",
+    "Gender":"Male",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Royston Wressyl",
+    "Gender":"Male",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Riversleigh",
+    "Gender":"Female",
+    "Location":"Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.19816,51.508648 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Riversleigh",
+    "Gender":"Female",
+    "Location":"Coronet theater"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.082225,51.512714 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Mrs. Riversleigh",
+    "Gender":"Female",
+    "Location":"Leviathon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Margett Llansaint",
+    "Gender":"Female",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.36567,51.369621 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Patch",
+    "Gender":"Male",
+    "Location":"Esher "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lady Hilda St. Maurice,",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Countess of Grancedieu",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.847175,53.197682 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duchess of Llandrysyl",
+    "Gender":"Female",
+    "Location":"North wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Duchess of Llandrysyl",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.154895,51.498393 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Ida Warwick",
+    "Gender":"Female",
+    "Location":"Belgravia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Ida Warwick",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Lady Cississiter",
+    "Gender":"Female",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":" Lady Cississiter",
+    "Gender":"Female",
+    "Location":"Richmond"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Cissister",
+    "Gender":"Male",
+    "Location":"Richmond "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165731,51.507282 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"John Beaudesert",
+    "Gender":"Male",
+    "Location":"Rotten Row"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.60905,51.48798 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Beatrice Leintwardine ",
+    "Gender":"Female",
+    "Location":"Eton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.178883,51.496107 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Eblis",
+    "Gender":"Unknown",
+    "Location":"South Kensington "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.303846,51.4642 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Abney Arcot",
+    "Gender":"Male",
+    "Location":"Richmond "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.165772,51.507241 ]
+    },
+    "properties": {
+    "Title":"Puck",
+    "Author":"Ouida",
+    "Character":"Lord Shamrock.",
+    "Gender":"Male",
+    "Location":"Hyde park"
+    }
+  }
+]
+}
