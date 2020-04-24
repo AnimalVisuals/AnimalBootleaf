@@ -65,13 +65,11 @@ var config = {
 	// 		"popupAnchor":  [-3, -76]
 	// },
 	"tocCategories": [
+		
 		{
-			"name": "GeoJSON layers",
-			"layers": ["PuckSpecies", "PuckClass", "PuckGender", "PuckRace"]
-		},
-		{
-			"name": "ArcGIS Layers",
-			"layers" : ["Puck_Map", "Hound", "Flush", "Vanity_Fair"]
+			"name": "Puck Attributes",
+			"layers" : ["PuckSpecies","PuckClass", "PuckGender", "PuckRace"],
+			"exclusive": true
 		},
 	],
 	"projections": [
@@ -87,6 +85,34 @@ var config = {
 		"stroke": true
 	},
 	"layers": [
+	{
+    "id": "puck",
+    "name": "Puck",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/puck.geojson",
+    "icon": {
+        "iconUrl": "./img/dog.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  "minZoom": 12
+	   }
+		
+	},
 	{
     "id": "PuckSpecies",
     "name": "Species",
@@ -137,7 +163,7 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Race",
+	  	"name": "Breed_Race",
 	  	"minZoom": 12
 	  }
 	},
@@ -195,6 +221,88 @@ var config = {
 	  "minZoom": 12
 	   }
 	},
+		{
+    "id": "flush",
+    "name": "Flush",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/flush.geojson",
+    "icon": {
+        "iconUrl": "./img/dog.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+		  
+	  	"minZoom": 12
+	  }
+	},
+		{
+    "id": "hound",
+    "name": "Hound",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/hound.geojson",
+    "icon": {
+        "iconUrl": "./img/sherlock.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  	"minZoom": 12
+	   }
+	},
+			{
+    "id": "vanityfair",
+    "name": "Vanity Fair",
+    "type": "geoJSON",
+    "cluster": true,
+    "showCoverageOnHover": false,
+    "minZoom": 12,
+    "url": "./data/vanityfair.geojson",
+    "icon": {
+        "iconUrl": "./img/moneybags.png",
+        "iconSize": [24,28]
+    },
+    "style": {
+    "stroke": true,
+    "fillColor": "#00FFFF",
+    "fillOpacity": 0.5,
+    "radius": 10,
+    "weight": 0.5,
+    "opacity": 1,
+    "color": '#727272',
+    },
+	  "visible": false,
+	  "label": {
+	  	"name": "Character",
+	  "minZoom": 12
+	   }
+	},
 
 		{
 			"id": "Puck_Map",
@@ -205,7 +313,7 @@ var config = {
 			"removeOutsideVisibleBounds": true,
 			"url": "https://services.arcgis.com/uHAHKfH1Z5ye1Oe0/arcgis/rest/services/PuckMap/FeatureServer",
 			"popup": true,
-			"tooltipField": "Character",
+			"tooltipField": "Species",
 			"outFields": [
 				{"type": "OID",	"name": "FID"},
 				{"name": "Character", "alias": "character"},
