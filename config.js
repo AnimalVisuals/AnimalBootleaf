@@ -67,7 +67,7 @@ var config = {
 	"tocCategories": [
 		{
 			"name": "GeoJSON layers",
-			"layers": ["puck", "flush", "hound", "vanityfair"]
+			"layers": ["Puck_Species", "Puck_Class", "Puck_Gender", "Puck_Race"]
 		},
 		{
 			"name": "ArcGIS Layers",
@@ -88,13 +88,13 @@ var config = {
 	},
 	"layers": [
 	{
-    "id": "puck",
-    "name": "Puck",
+    "id": "Puck_Species",
+    "name": "Species",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/puck.geojson",
+    "url": "./data/Puck_Species.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
@@ -110,18 +110,18 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Character",
+	  	"name": "Species",
 	  "minZoom": 12
 	   }
 	},
 		{
-    "id": "flush",
-    "name": "Flush",
+    "id": "Puck_Race",
+    "name": "Race",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/flush.geojson",
+    "url": "./data/Puck_Race.geojson",
     "icon": {
         "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
@@ -137,20 +137,20 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Character",
+	  	"name": "Race",
 	  	"minZoom": 12
 	  }
 	},
 		{
-    "id": "hound",
-    "name": "Hound",
+    "id": "Puck_Class",
+    "name": "Class",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/hound.geojson",
+    "url": "./data/Puck_Class.geojson",
     "icon": {
-        "iconUrl": "./img/sherlock.png",
+        "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
     },
     "style": {
@@ -164,20 +164,20 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Character",
+	  	"name": "Class",
 	  	"minZoom": 12
 	   }
 	},
 			{
-    "id": "vanityfair",
-    "name": "Vanity Fair",
+    "id": "Puck_Gender",
+    "name": "Gender",
     "type": "geoJSON",
     "cluster": true,
     "showCoverageOnHover": false,
     "minZoom": 12,
-    "url": "./data/vanityfair.geojson",
+    "url": "./data/Puck_Gender.geojson",
     "icon": {
-        "iconUrl": "./img/moneybags.png",
+        "iconUrl": "./img/dog.png",
         "iconSize": [24,28]
     },
     "style": {
@@ -191,7 +191,7 @@ var config = {
     },
 	  "visible": false,
 	  "label": {
-	  	"name": "Character",
+	  	"name": "Gender",
 	  "minZoom": 12
 	   }
 	},
